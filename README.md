@@ -1,9 +1,9 @@
 # Jiffy
-The GIF searcher based on the [Giphy API](https://developers.giphy.com/explorer/)
+A Gif searcher based on the [Giphy API](https://developers.giphy.com/explorer/)
 
-Instructions: 
+Instructions 
 1. Type the search term
-2. Hit enter and receive a new GIF
+2. Hit enter, and receive a new GIF endlessly (alright not endlessly but who can resist those 🐱🐱🐱🐱)
 
 But, more importantly check the live site [here](https://jiffysearch.herokuapp.com/) in action and try yourself!
 
